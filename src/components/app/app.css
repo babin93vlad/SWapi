@@ -1,0 +1,21 @@
+.button-row {
+	margin: 0 0 1rem 0;
+	display: flex;
+}
+
+.button-row button {
+	margin-right: 1rem;
+	height: 50px;
+}
+
+.stardb-app .row {
+	margin-bottom: 1rem;
+}
+
+.toggle-planet {
+	margin-bottom: 2rem;
+}
+.toggle-planet:hover {
+	background-color: white;
+	color: orange;
+}
